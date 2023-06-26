@@ -1,0 +1,16 @@
+{
+    "firstname":"Jin",
+    "gender":true,
+    "height":172,
+    "email":"lxtot8010@gmail.com",
+    "city":{
+        "通訊地址":"Taipei",
+        "戶籍地址":"Taipei"
+    },
+    "phone":{
+        "市話":"02-2848-1456",
+        "行動電話":"0963275405"
+    },
+    "cars":["Toyota","Acura","Mercedes"]
+
+}
